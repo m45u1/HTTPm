@@ -1,4 +1,4 @@
 # HTTPm
 Brute Force HTTP methode
 
-![](HTTPm.png?raw=true)
+![](HTTP.png?raw=true)
