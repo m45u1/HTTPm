@@ -1,6 +1,5 @@
 # HTTPm
-Brute Force HTTP methode
-
+Brute Force HTTP method
 ![](HTTP.png?raw=true)
 
 
